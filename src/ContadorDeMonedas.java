@@ -1,6 +1,7 @@
 /**
  *
  * @author iguisado
+ * 
  */
 public class ContadorDeMonedas{
     
